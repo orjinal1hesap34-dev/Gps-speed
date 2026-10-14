@@ -1,0 +1,6 @@
+{
+  "name": "MotoSpeed GPS",
+  "description": "Motosiklet ve araçlar için gerçek GPS donanım hız ölçümü ve performans test uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MotoSpeed GPS</string>
+    <string name="speed_waiting_gps">GPS sinyali bekleniyor…</string>
+    <string name="speed_unreliable">Ölçüm güvenilir değil</string>
+    <string name="test_start">Testi Başlat</string>
+    <string name="test_pause">Duraklat</string>
+    <string name="test_resume">Devam Et</string>
+    <string name="test_reset">Sıfırla</string>
+    <string name="max_speed">En Yüksek Hız</string>
+    <string name="avg_speed">Ortalama Hız</string>
+    <string name="elapsed_time">Geçen Süre</string>
+    <string name="distance">Kat Edilen Mesafe</string>
+    <string name="gps_accuracy">GPS Doğruluğu</string>
+    <string name="permission_required_title">Konum İzni Gerekli</string>
+    <string name="permission_required_desc">Gerçek hızınızı GNSS uydularından ölçebilmek için hassas konum (GPS) izni vermeniz gerekmektedir. Verileriniz yalnızca cihazınızda işlenir.</string>
+    <string name="grant_permission">Konum İznini Aç</string>
+    <string name="gps_disabled_title">GPS Servisi Kapalı</string>
+    <string name="gps_disabled_desc">Cihazınızın GPS donanımı kapalı. Gerçek hız ölçümü için lütfen konum servisini açın.</string>
+    <string name="open_settings">GPS Ayarlarını Aç</string>
+    <string name="tracking_notification_title">MotoSpeed Hız Testi Devam Ediyor</string>
+    <string name="tracking_notification_channel">GPS Hız Takip Servisi</string>
+    <string name="hardware_gnss_speed">GNSS Donanım Hızı</string>
+    <string name="derived_gps_speed">GPS Konum Türevi</string>
+</resources>
